@@ -1,0 +1,9 @@
+Command	Purpose
+git status	Check file changes
+git add .	Stage all changes
+git commit -m "message"	Save changes
+git push	Upload code
+git pull	Download latest changes
+git clone URL	Download repository
+git branch	Check branches
+git log	View commit history
